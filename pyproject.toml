@@ -17,3 +17,8 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/MrLawes/pylychee"
 "Bug Tracker" = "https://github.com/MrLawes/lychee/pylychee"
+
+[build-system]
+requires = [
+    "requests >= 2.31.0",
+]
