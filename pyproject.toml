@@ -22,4 +22,5 @@ classifiers = [
 requires = [
     "requests >= 2.31.0",
     "pyyaml >= 6.0",
+    "setuptools >= 67..8.0",
 ]
