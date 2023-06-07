@@ -1,6 +1,6 @@
 欢迎来到 pylychee 的 文档!
 ====================================
-Pylychee 是一个各种第三方 SDK 的集合体，省去了按照第三方接口文档对接的过程。谢谢你的关注。
+pylychee 是一个各种第三方 SDK 的集合体，省去了按照第三方接口文档对接的过程。谢谢你的关注。
 
 快速安装
 ===================
@@ -14,7 +14,7 @@ Pylychee 是一个各种第三方 SDK 的集合体，省去了按照第三方接
     import os
     os.environ.setdefault('PYLYCHEE_SETTINGS', 'your path.yml')
 
-不同的 SDK，yaml 的配置也不同，比如飞书的 yaml 如何：
+不同的 SDK，yaml 的配置也不同，比如飞书的 yaml 配置：
 
     feishu:
         app_secret: 'your app_secret'
