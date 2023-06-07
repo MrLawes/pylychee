@@ -5,8 +5,6 @@ import requests
 
 from pylychee.apps.feishu import AccessToken
 
-# todo testcases
-# todo 帮助文档
 
 class Messages:
     """ 消息管理 """

@@ -17,6 +17,6 @@ pip install pylychee
 
     feishu:
         app_secret: 'your app_secret'
-        appid: 'your appid'
+        app_id: 'your app_id'
 
 多个 SDK 的 yaml 配置，可以在一起配置使用。
