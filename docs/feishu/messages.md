@@ -1,6 +1,6 @@
 # 消息
 
-   飞书的[开发文档](https://open.feishu.cn/document/uAjLw4CM/ukTMukTMukTM/reference/im-v1/introduction)
+   飞书的[开发文档](https://open.feishu.cn/document/uAjLw4CM/ukTMukTMukTM/reference/im-v1/message/create)
 
 ## 发送消息
     
