@@ -4,7 +4,8 @@ Pylychee 是一个各种第三方 SDK 的集合体，省去了按照第三方接
 
 快速安装
 ===================
-pip install pylychee
+
+    pip install pylychee
     
 开始使用
 ===================
